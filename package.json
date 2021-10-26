@@ -1,7 +1,6 @@
 {
-  "name": "react-ap",
+  "name": "react-app",
   "author": "Peter Kiptoo",
-  "licence": "MIT",
   "version": "1.0.0",
   "private": false,
   "scripts": {
